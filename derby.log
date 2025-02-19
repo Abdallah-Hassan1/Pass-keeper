@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 25 22:25:44 EET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-018e-774a-5535-0000061e40d8 
+on database directory A:\Java programs\Pass Keeper\Info with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_111/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=A:\Java programs\Pass Keeper
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
