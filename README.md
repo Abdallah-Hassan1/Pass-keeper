@@ -1,6 +1,6 @@
 # Pass-keepter
 A program is used to save your passwords in an encrypted way
-<table style="border-width: 1px;">
+<table style="border: 0px">
   <tr>
     <td>Settings Page</td>
     <td>Main page</td>
